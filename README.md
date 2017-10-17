@@ -4,29 +4,29 @@ This being my first GitHub repository, probably not used in a way meant to, is j
 
 ## 2017
 
-**September**
-Aldous Huxley - Brave New World<Enter>
-Dan Cederholm - CSS3 for Web Designers
-Ethan Marcotte - Responsive Web Design
-**August**
-Haruki Murakami - 1Q84 3. book
-George Orwell - Big Brother (Nineteen Eighty-Four)
-Jeremy Keith & Rachel Andrew - HTML5 for Web Designers
-**July**
-Geoff Cox and Alex McLean - Speaking Code (Coding as Aesthetic and Political Expression)
-Larissa Hjorth - Games and Gaming: An Introduction to New Media
-**June**
-Evgeny Morozov - The Net Delusion
-Haruki Murakami - What I Talk About When I Talk About Running
-**May**
-Bruno Munari - Design as Art
-Casey Reas, Chandler McWilliams - Form+Code in Design, Art, and Architecture
-**April**
-Whitechapel: Documents of Contemporary Art - Systems
-**March**
-10 PRINT CHR$(205.5+RND(1)); : GOTO 10
-Thomas Bernhardt - Extinction
-**February**
-Thomas Bernhardt - Woodcutters
-**January**
-Haruki Murakami - 1Q84 1. & 2. book
+**September**<br>
+Aldous Huxley - Brave New World<br>
+Dan Cederholm - CSS3 for Web Designers<br>
+Ethan Marcotte - Responsive Web Design<br>
+**August**<br>
+Haruki Murakami - 1Q84 3. book<br>
+George Orwell - Big Brother (Nineteen Eighty-Four)<br>
+Jeremy Keith & Rachel Andrew - HTML5 for Web Designers<br>
+**July**<br>
+Geoff Cox and Alex McLean - Speaking Code (Coding as Aesthetic and Political Expression)<br>
+Larissa Hjorth - Games and Gaming: An Introduction to New Media<br>
+**June**<br>
+Evgeny Morozov - The Net Delusion<br>
+Haruki Murakami - What I Talk About When I Talk About Running<br>
+**May**<br>
+Bruno Munari - Design as Art<br>
+Casey Reas, Chandler McWilliams - Form+Code in Design, Art, and Architecture<br>
+**April**<br>
+Whitechapel: Documents of Contemporary Art - Systems<br>
+**March**<br>
+10 PRINT CHR$(205.5+RND(1)); : GOTO 10<br>
+Thomas Bernhardt - Extinction<br>
+**February**<br>
+Thomas Bernhardt - Woodcutters<br>
+**January**<br>
+Haruki Murakami - 1Q84 1. & 2. book<br>
