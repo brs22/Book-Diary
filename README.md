@@ -5,7 +5,7 @@ This being my first GitHub repository, probably not used in a way meant to, is j
 ## 2017
 
 **September**
-Aldous Huxley - Brave New World
+Aldous Huxley - Brave New World<Enter>
 Dan Cederholm - CSS3 for Web Designers
 Ethan Marcotte - Responsive Web Design
 **August**
