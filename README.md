@@ -1,6 +1,6 @@
 # Book-Diary
-At one point few years back, I stopped reading as much as I did in the past, the books weren't just seeming to keep my attention. Reading seemed like a real strugle. Beginning of this year I decided to get back on track, and read as much books as I can. Acquiring the Kindle seemed to have re-lit the reading spark in me. I've set the goal loosely to 2 books a month. So far sometimes I'm over, sometimes under this goal. 
-This being my first GitHub repository, probably not used in a way meant to, is just a way of record keeping on what had I read so far, and keeping track of overall progress, and generally introduce myself in an unconventional way.
+At one point few years back, I stopped reading as much as I did in the past, as the books weren't just being able to keep my attention. Reading seemed like a real struggle. Beginning of this year I decided to get back on track, and read as much books as I can, and acquiring the Kindle seemed to have re-lit the reading spark in me. I've set the goal loosely to 2 books a month. So far sometimes I'm over, sometimes under this goal, but reading is fun once again.<br> 
+This being my first GitHub repository, and probably not used in a way originally meant to be used, is just a way of keeping record on what I had read so far, keeping track of overall progress and eventual change in my affinities, and generally introducing myself in an unconventional way, through the books read.
 
 ## 2017
 
