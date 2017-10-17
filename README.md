@@ -3,7 +3,12 @@ At one point few years back, I stopped reading as much as I did in the past, as 
 This being my first GitHub repository, and probably not used in a way originally meant to be used, is just a way of keeping record on what I had read so far, keeping track of overall progress and eventual change in my affinities, and generally introducing myself in an unconventional way, through the books read.
 
 ## 2017
-
+**October**<br>
+<br>
+currently being read:<br>
+Thomas Bernhardt - Wittgenstein's Nephew<br>
+Robin Nixon - Learning PHP, MySQL, JavaScript, CSS & HTML5<br>
+<br>
 **September**<br>
 <br>
 Aldous Huxley - Brave New World<br>
@@ -38,12 +43,14 @@ Whitechapel: Documents of Contemporary Art - Systems<br>
 <br>
 **March**<br>
 <br>
-10 PRINT CHR$(205.5+RND(1)); : GOTO 10<br>
+Nick Montfort, Ian Bogost, Mark C. Marino - 10 PRINT CHR$(205.5+RND(1)); : GOTO 10<br>
 Thomas Bernhardt - Extinction<br>
 <br>
 **February**<br>
 <br>
+Roberto Bolaño - 2666 1. book<br>
 Thomas Bernhardt - Woodcutters<br>
+Lawrence Norfolk - The Pope's Rhinoceros<br>
 <br>
 **January**<br>
 <br>
