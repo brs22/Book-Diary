@@ -5,28 +5,46 @@ This being my first GitHub repository, probably not used in a way meant to, is j
 ## 2017
 
 **September**<br>
+<br>
 Aldous Huxley - Brave New World<br>
 Dan Cederholm - CSS3 for Web Designers<br>
 Ethan Marcotte - Responsive Web Design<br>
+Stephen King - Dark Tower<br>
+<br>
 **August**<br>
+<br>
 Haruki Murakami - 1Q84 3. book<br>
 George Orwell - Big Brother (Nineteen Eighty-Four)<br>
 Jeremy Keith & Rachel Andrew - HTML5 for Web Designers<br>
+<br>
 **July**<br>
+<br>
 Geoff Cox and Alex McLean - Speaking Code (Coding as Aesthetic and Political Expression)<br>
 Larissa Hjorth - Games and Gaming: An Introduction to New Media<br>
+<br>
 **June**<br>
+<br>
 Evgeny Morozov - The Net Delusion<br>
 Haruki Murakami - What I Talk About When I Talk About Running<br>
+<br>
 **May**<br>
+<br>
 Bruno Munari - Design as Art<br>
 Casey Reas, Chandler McWilliams - Form+Code in Design, Art, and Architecture<br>
+<br>
 **April**<br>
+<br>
 Whitechapel: Documents of Contemporary Art - Systems<br>
+<br>
 **March**<br>
+<br>
 10 PRINT CHR$(205.5+RND(1)); : GOTO 10<br>
 Thomas Bernhardt - Extinction<br>
+<br>
 **February**<br>
+<br>
 Thomas Bernhardt - Woodcutters<br>
+<br>
 **January**<br>
+<br>
 Haruki Murakami - 1Q84 1. & 2. book<br>
