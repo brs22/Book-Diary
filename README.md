@@ -5,7 +5,7 @@ This being my first GitHub repository, and probably not used in a way originally
 ## 2017
 **October**<br>
 <br>
-currently being read:<br>
+Currently on the nightstand:<br>
 Thomas Bernhardt - Wittgenstein's Nephew<br>
 Robin Nixon - Learning PHP, MySQL, JavaScript, CSS & HTML5<br>
 <br>
