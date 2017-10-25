@@ -55,3 +55,7 @@ Lawrence Norfolk - The Pope's Rhinoceros<br>
 **January**<br>
 <br>
 Haruki Murakami - 1Q84 1. & 2. book<br>
+<br>
+<br>
+<br>
+Future readings - be free to propose:<br>
