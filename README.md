@@ -3,9 +3,8 @@ At one point few years back, I stopped reading as much as I did in the past, as 
 This being my first GitHub repository, and probably not used in a way originally meant to be used, is just a way of keeping record on what I had read so far, keeping track of overall progress and eventual change in my affinities, and generally introducing myself in an unconventional way, through the books read.
 
 ## 2017
-**October**<br>
+**Currently on the nightstand:**<br>
 <br>
-Currently on the nightstand:<br>
 Thomas Bernhardt - Wittgenstein's Nephew<br>
 Robin Nixon - Learning PHP, MySQL, JavaScript, CSS & HTML5<br>
 <br>
