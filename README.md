@@ -57,7 +57,7 @@ Haruki Murakami - 1Q84 1. & 2. book<br>
 <br>
 <br>
 <br>
-Future readings - be free to propose:<br>
+Future readings - feel free to propose:<br>
 ...<br>
 ..<br>
 .<br>
