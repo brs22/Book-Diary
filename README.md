@@ -5,8 +5,13 @@ This being my first GitHub repository, and probably not used in a way originally
 ## 2017
 **Currently on the nightstand:**<br>
 <br>
-Thomas Bernhardt - Wittgenstein's Nephew<br>
+Roberto Bolano - 2666 2. book<br>
 Robin Nixon - Learning PHP, MySQL, JavaScript, CSS & HTML5<br>
+Lelia Green - The Internet: An Introduction to New Media<br>
+<br>
+**October**<br>
+<br>
+Thomas Bernhardt - Wittgenstein's Nephew<br>
 <br>
 **September**<br>
 <br>
@@ -33,11 +38,12 @@ Haruki Murakami - What I Talk About When I Talk About Running<br>
 <br>
 **May**<br>
 <br>
-Bruno Munari - Design as Art<br>
+Stanislav Lem - Summa Technologiae<br>
 Casey Reas, Chandler McWilliams - Form+Code in Design, Art, and Architecture<br>
 <br>
 **April**<br>
 <br>
+Bruno Munari - Design as Art<br>
 Whitechapel: Documents of Contemporary Art - Systems<br>
 <br>
 **March**<br>
