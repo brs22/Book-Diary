@@ -67,3 +67,9 @@ Future readings - feel free to propose:<br>
 ...<br>
 ..<br>
 .<br>
+David Webster - Dispirited: How Contemporary Spirituality Makes Us Stupid, Selfish and Unhappy<br>
+Robert C. Martin - Clean Code: A Handbook of Agile Software Craftsmanship<br>
+Robert C. Martin - The Clean Coder: A Code of Conduct for Professional Programmers<br>
+Robert C. Martin - Clean Architecture: A Craftsman's Guide to Software Structure and Design<br>
+Hannah B Higgins The Grid Book<br>
+Jeffrey Friedl - Mastering regular expressions<br>
