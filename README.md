@@ -5,9 +5,12 @@ This being my first GitHub repository, and probably not used in a way originally
 ## 2017
 **Currently on the nightstand:**<br>
 <br>
-Roberto Bolano - 2666 2. book<br>
 Robin Nixon - Learning PHP, MySQL, JavaScript, CSS & HTML5<br>
 Lelia Green - The Internet: An Introduction to New Media<br>
+<br>
+**November**<br>
+<br>
+Roberto Bolano - 2666 2. book<br>
 <br>
 **October**<br>
 <br>
