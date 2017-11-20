@@ -6,10 +6,11 @@ This being my first GitHub repository, and probably not used in a way originally
 **Currently on the nightstand:**<br>
 <br>
 Robin Nixon - Learning PHP, MySQL, JavaScript, CSS & HTML5<br>
-Lelia Green - The Internet: An Introduction to New Media<br>
 <br>
 **November**<br>
 <br>
+Cathy O'Neil - Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy<br>
+Lelia Green - The Internet: An Introduction to New Media<br>
 Roberto Bolano - 2666 2. book<br>
 <br>
 **October**<br>
