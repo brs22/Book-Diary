@@ -6,6 +6,9 @@ This being my first GitHub repository, and probably not used in a way originally
 **Currently on the nightstand:**<br>
 <br>
 Robin Nixon - Learning PHP, MySQL, JavaScript, CSS & HTML5<br>
+David Webster - Dispirited: How Contemporary Spirituality Makes Us Stupid, Selfish and Unhappy<br>
+Evgeny Morozov - To Save Everything, Click Here<br>
+Whitechapel: Documents of Contemporary Art - Information<br>
 <br>
 **November**<br>
 <br>
@@ -71,7 +74,6 @@ Future readings - feel free to propose:<br>
 ...<br>
 ..<br>
 .<br>
-David Webster - Dispirited: How Contemporary Spirituality Makes Us Stupid, Selfish and Unhappy<br>
 Robert C. Martin - Clean Code: A Handbook of Agile Software Craftsmanship<br>
 Robert C. Martin - The Clean Coder: A Code of Conduct for Professional Programmers<br>
 Robert C. Martin - Clean Architecture: A Craftsman's Guide to Software Structure and Design<br>
