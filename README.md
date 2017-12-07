@@ -6,9 +6,12 @@ This being my first GitHub repository, and probably not used in a way originally
 **Currently on the nightstand:**<br>
 <br>
 Robin Nixon - Learning PHP, MySQL, JavaScript, CSS & HTML5<br>
-David Webster - Dispirited: How Contemporary Spirituality Makes Us Stupid, Selfish and Unhappy<br>
 Evgeny Morozov - To Save Everything, Click Here<br>
 Whitechapel: Documents of Contemporary Art - Information<br>
+<br>
+**December**<br>
+<br>
+David Webster - Dispirited: How Contemporary Spirituality Makes Us Stupid, Selfish and Unhappy<br>
 <br>
 **November**<br>
 <br>
