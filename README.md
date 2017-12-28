@@ -7,11 +7,13 @@ This being my first GitHub repository, and probably not used in a way originally
 <br>
 Robin Nixon - Learning PHP, MySQL, JavaScript, CSS & HTML5<br>
 Evgeny Morozov - To Save Everything, Click Here<br>
-Whitechapel: Documents of Contemporary Art - Information<br>
 <br>
 **December**<br>
 <br>
 David Webster - Dispirited: How Contemporary Spirituality Makes Us Stupid, Selfish and Unhappy<br>
+Whitechapel: Documents of Contemporary Art - Information<br>
+Marshall McLuhan, Quentin Fiore - The Medium Is the Massage<br>
+Afterall One Work: Chris Marker - La Jetée<br>
 <br>
 **November**<br>
 <br>
