@@ -8,7 +8,7 @@ Come year 2022, I enrolled Master Studies - Master in Computational Studies, whi
 
 ## 2022
 
-### Currently on the nightstand:**
+### Currently on the nightstand:
 
 **August**  
 
