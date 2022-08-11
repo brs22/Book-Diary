@@ -25,9 +25,10 @@ Incerto Series: Fooled by Randomness, The Hidden Role of Chance in Life and in t
 
 **July**
 
-**June**
+**June**  
 Introduction to the Economics and Mathematics of Financial Markets - Jaksa Cvitanic, Fernando Zapatero [MIT Press]
 Fixed Income Analysis - Frank J. Fabozzi CFA, Martin L. Leibowitz  
+
 **May**  
 Web Scraping with Python, Collecting More Data from the Modern Web - Ryan Mitchell [O’Reilly Media]  
 
@@ -38,7 +39,8 @@ Option Pricing, A Simplified Approach - Cox, Ross, Rubinstein
 
 **March**  
 Investments - Zvi Bodie, Alex Kane, Alan J. Marcus [McGraw-Hill Education]  
-Options, Futures, and Other Derivatives - John Hull
+Options, Futures, and Other Derivatives - John Hull  
+
 **February**  
 Asset Management, A Systematic Approach - Andrew Ang  
 Python for Finance, Mastering Data Driven Finance  Book - Yves Hilpisch  
