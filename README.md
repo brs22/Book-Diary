@@ -8,13 +8,21 @@ Come year 2022, I enrolled Master Studies - Master in Computational Studies, whi
 
 ## 2022
 
-### Currently on the nightstand:
+### Currently on the nightstand:  
+
+**December**
+
+**November**
+
+**October**
+
+**September**
 
 **August**  
 
 **July**
 
-**June** 
+**June**
   
 **May**  
 
@@ -26,7 +34,7 @@ Come year 2022, I enrolled Master Studies - Master in Computational Studies, whi
 
 **January**  
 
-**Future readings - feel free to propose:**
+**Future readings - feel free to propose:**  
 ...  
 ..  
 .
