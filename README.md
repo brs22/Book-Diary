@@ -4,7 +4,7 @@ At one point few years back, I stopped reading as much as I did in the past, as 
 
 This being my first GitHub repository, this being written initially in 2017, and probably not used in a way originally meant to be used, is just a way of keeping record on what I had read so far, keeping track of overall progress and eventual change in my affinities, and generally introducing myself in an unconventional way, through the books read.  
 
-Come year 2022, I enrolled Master Studies - Master in Computational Studies, which sort of pushed me again to delve into new area. Learning Python & R, appart from refreshing knowledge in the Statistics and Financial Math. So reading is fun once again.  
+Come year 2022, I enrolled Master Studies - Master in Computational Studies, which sort of pushed me again to delve into new area and to continue reading more. Learning Python & R, appart from refreshing knowledge in the Statistics and Financial Math. So reading is fun once again.  
 
 ## 2022
 
