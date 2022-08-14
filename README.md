@@ -50,7 +50,7 @@ An Introduction to Analysis of Financial Data with R - Ruey S. Tsay
 Quantitative Investment Analysis - group of authors [CFA Institute Investment]  
 Hands-On Programming with R - Garrett Grolemund - [O'Reilly Media]  
 
-**Future readings - feel free to propose:**  
+### Future readings - feel free to propose: 
 ...  
 ..  
 .
