@@ -8,49 +8,57 @@ Come year 2022, I enrolled Master Studies - Master in Computational Studies, whi
 
 ## 2022
 
-### Currently on the nightstand:  
+### Currently on the nightstand  
+
 Game Changer: AlphaZero's Groundbreaking Chess Strategies and the Promise of AI - Matthew Sadler and Natasha Regan  
 White Noise - Don DeLillo  
 Incerto Series: Fooled by Randomness, The Hidden Role of Chance in Life and in the Markets; Black Swan, The Impact of the Highly Improbable; The Bed of Procrustes, Philosophical and Practical Aphorisms; Antifragile, Things That Gain from Disorder; Skin in the Game, Hidden Asymmetries in Daily Life - Nassim Nicholas Taleb  
 
-**December**
+#### December
 
-**November**
+#### November
 
-**October**
+#### October
 
-**September**
+#### September
 
-**August**  
+#### August  
 
-**July**
+#### July
 
-**June**  
+#### June  
+
 Introduction to the Economics and Mathematics of Financial Markets - Jaksa Cvitanic, Fernando Zapatero [MIT Press]
 Fixed Income Analysis - Frank J. Fabozzi CFA, Martin L. Leibowitz  
 
-**May**  
+#### May  
+
 Web Scraping with Python, Collecting More Data from the Modern Web - Ryan Mitchell [O’Reilly Media]  
 
-**April**  
+#### April
+
 Robust Portfolio Optimization and Management -  Frank J. Fabozzi, Petter N. Kolm, Dessislava Pachamanova, Sergio M. Focardi  
 A Guide to Modern Econometrics - Marno Verbeek
 Option Pricing, A Simplified Approach - Cox, Ross, Rubinstein
 
-**March**  
+#### March
+
 Investments - Zvi Bodie, Alex Kane, Alan J. Marcus [McGraw-Hill Education]  
 Options, Futures, and Other Derivatives - John Hull  
 
-**February**  
+#### February
+
 Asset Management, A Systematic Approach - Andrew Ang  
 Python for Finance, Mastering Data Driven Finance  Book - Yves Hilpisch  
 An Introduction to Analysis of Financial Data with R - Ruey S. Tsay
 
-**January**  
+#### January  
+
 Quantitative Investment Analysis - group of authors [CFA Institute Investment]  
 Hands-On Programming with R - Garrett Grolemund - [O'Reilly Media]  
 
-### Future readings - feel free to propose: 
+### Future readings - feel free to propose
+
 ...  
 ..  
 .
