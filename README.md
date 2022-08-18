@@ -38,7 +38,7 @@ Web Scraping with Python, Collecting More Data from the Modern Web - Ryan Mitche
 #### April
 
 Robust Portfolio Optimization and Management -  Frank J. Fabozzi, Petter N. Kolm, Dessislava Pachamanova, Sergio M. Focardi  
-A Guide to Modern Econometrics - Marno Verbeek
+A Guide to Modern Econometrics - Marno Verbeek  
 Option Pricing, A Simplified Approach - Cox, Ross, Rubinstein
 
 #### March
