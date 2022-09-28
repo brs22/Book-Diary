@@ -11,7 +11,7 @@ Come year 2022, I enrolled Master Studies - Master in Computational Studies, whi
 ### Currently on the nightstand  
 
 Game Changer: AlphaZero's Groundbreaking Chess Strategies and the Promise of AI - Matthew Sadler and Natasha Regan  
-White Noise - Don DeLillo  
+  
 Incerto Series: Fooled by Randomness, The Hidden Role of Chance in Life and in the Markets; Black Swan, The Impact of the Highly Improbable; The Bed of Procrustes, Philosophical and Practical Aphorisms; Antifragile, Things That Gain from Disorder; Skin in the Game, Hidden Asymmetries in Daily Life - Nassim Nicholas Taleb  
 
 #### December
@@ -20,7 +20,11 @@ Incerto Series: Fooled by Randomness, The Hidden Role of Chance in Life and in t
 
 #### October
 
-#### September
+#### September  
+
+Antifragile, Things That Gain from Disorder; Skin in the Game, Hidden Asymmetries in Daily Life - Nassim Nicholas Taleb  
+  
+White Noise - Don DeLillo
 
 #### August  
 
