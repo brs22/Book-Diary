@@ -22,7 +22,7 @@ Incerto Series: Fooled by Randomness, The Hidden Role of Chance in Life and in t
 
 #### September  
 
-Antifragile, Things That Gain from Disorder; Skin in the Game, Hidden Asymmetries in Daily Life - Nassim Nicholas Taleb  
+Antifragile, Things That Gain from Disorder - Nassim Nicholas Taleb  
   
 White Noise - Don DeLillo
 
