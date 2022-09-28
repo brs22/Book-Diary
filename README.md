@@ -32,7 +32,8 @@ White Noise - Don DeLillo
 
 #### June  
 
-Introduction to the Economics and Mathematics of Financial Markets - Jaksa Cvitanic, Fernando Zapatero [MIT Press]
+Introduction to the Economics and Mathematics of Financial Markets - Jaksa Cvitanic, Fernando Zapatero [MIT Press]  
+
 Fixed Income Analysis - Frank J. Fabozzi CFA, Martin L. Leibowitz  
 
 #### May  
@@ -42,23 +43,29 @@ Web Scraping with Python, Collecting More Data from the Modern Web - Ryan Mitche
 #### April
 
 Robust Portfolio Optimization and Management -  Frank J. Fabozzi, Petter N. Kolm, Dessislava Pachamanova, Sergio M. Focardi  
+
 A Guide to Modern Econometrics - Marno Verbeek  
+
 Option Pricing, A Simplified Approach - Cox, Ross, Rubinstein
 
 #### March
 
 Investments - Zvi Bodie, Alex Kane, Alan J. Marcus [McGraw-Hill Education]  
+
 Options, Futures, and Other Derivatives - John Hull  
 
 #### February
 
 Asset Management, A Systematic Approach - Andrew Ang  
+
 Python for Finance, Mastering Data Driven Finance  Book - Yves Hilpisch  
+
 An Introduction to Analysis of Financial Data with R - Ruey S. Tsay
 
 #### January  
 
 Quantitative Investment Analysis - group of authors [CFA Institute Investment]  
+  
 Hands-On Programming with R - Garrett Grolemund - [O'Reilly Media]  
 
 ### Future readings - feel free to propose
