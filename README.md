@@ -14,11 +14,15 @@ Game Changer: AlphaZero's Groundbreaking Chess Strategies and the Promise of AI 
   
 Incerto Series: Fooled by Randomness, The Hidden Role of Chance in Life and in the Markets; Black Swan, The Impact of the Highly Improbable; The Bed of Procrustes, Philosophical and Practical Aphorisms; Antifragile, Things That Gain from Disorder; Skin in the Game, Hidden Asymmetries in Daily Life - Nassim Nicholas Taleb  
 
+Risk Management and Financial Institutions - John C. Hull  
+
 #### December
 
 #### November
 
-#### October
+#### October  
+  
+In The Dust Of This Planet - Eugene Thacker  
 
 #### September  
 
